@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=1400000,RESOLUTION=370x208
+http://a501.variety-buy.store/api/channel/44
+#EXT-X-STREAM-INF:BANDWIDTH=1800000,RESOLUTION=740x416
+http://a501.variety-buy.store/api/channel/24
+#EXT-X-STREAM-INF:BANDWIDTH=2400000,RESOLUTION=1280x720
+http://a501.variety-buy.store/api/channel/4
