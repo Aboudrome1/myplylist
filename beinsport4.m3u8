@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=640x360
-http://ghost1.sawaghost1.xyz/live101/80491.m3u8
+http://tv3in1.online:8080/live/3IN1_+SPORT/SPORT_+3IN1/48.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=1400000,RESOLUTION=854x480
-http://ghost1.sawaghost1.xyz/live101/80505.m3u8
+http://tv3in1.online:8080/live/3IN1_+SPORT/SPORT_+3IN1/12.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1920x1080
-http://ghost1.sawaghost1.xyz/live101/80520.m3u8
+http://tv3in1.online:8080/live/3IN1_+SPORT/SPORT_+3IN1/4.m3u8
