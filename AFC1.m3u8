@@ -1,7 +1,0 @@
-#EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=1400000,RESOLUTION=512x288
-https://www.mejarserver.com/Tod-AFC-1-SD/index.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1800000,RESOLUTION=1024x576
-https://www.mejarserver.com/Tod-AFC-1-HD/index.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=2400000,RESOLUTION=1920x1080
-https://www.mejarserver.com/Tod-AFC-1/index.m3u8
