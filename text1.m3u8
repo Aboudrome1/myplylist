@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=1800000,RESOLUTION=720x576
+http://162.19.37.133:8080/play/live.php?mac=00:1a:79:bc:8d:f6&stream=192752&extension=m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2400000,RESOLUTION=1280x720
+http://162.19.37.133:8080/play/live.php?mac=00:1a:79:bc:8d:f6&stream=192765&extension=m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080
+http://162.19.37.133:8080/play/live.php?mac=00:1a:79:bc:8d:f6&stream=59308&extension=m3u8
